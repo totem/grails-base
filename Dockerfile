@@ -1,4 +1,4 @@
-FROM u.melt.sh/totem/java-oracle-base:7
+FROM makuk66/docker-oracle-java7
 
 WORKDIR /opt/grails
 
